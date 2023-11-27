@@ -28,5 +28,5 @@ public class Fadila {
        }else {
             System.out.println ("Anda kelebihan berat badan(obesitas)");
         }
- 
+  
 
